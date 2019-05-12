@@ -1,0 +1,119 @@
+Username: Tom Holland
+Email: tom.holland@gmail.com
+Notification Time: 0800
+Zipcode: 80022
+Preferences: bakeries
+
+Username: Dillon Divich
+Email: ddivich@uccs.edu
+Notification Time: 1800
+Zipcode: 80920
+Preferences: beer_and_wine
+
+Username: Igor Vahrameev
+Email: ivahrame@uccs.edu
+Notification Time: 1000
+Zipcode: 80919
+Preferences: bagels
+
+Username: Liam Neeson
+Email: liam.neeson@gmail.com
+Notification Time: 0200
+Zipcode: 80019
+Preferences: desserts
+
+Username: Chris Hemsworth
+Email: chemsworth@gmail.com
+Notification Time: 0900
+Zipcode: 80024
+Preferences: donuts
+
+Username: Robert Downey Jr.
+Email: rdj@gmail.com
+Notification Time: 1200
+Zipcode: 80030
+Preferences: empanadas
+
+Username: Scarlett Johansson
+Email: blackwidow@yahoo.com
+Notification Time: 1230
+Zipcode: 80031
+Preferences: torshi
+
+Username: Chris Evans
+Email: cevans@yahoo.com
+Notification Time: 1430
+Zipcode: 80035
+Preferences: wineries
+
+Username: Elizabeth Olsen
+Email: liz.olsen@gmail.com
+Notification Time: 1400
+Zipcode: 80042
+Preferences: tortillas
+
+Username: Brie Larson
+Email: vers@gmail.com
+Notification Time: 1200
+Zipcode: 80040
+Preferences: honey
+
+Username: Mark Ruffalo
+Email: markr13@yahoo.com
+Notification Time: 1230
+Zipcode: 80036
+Preferences: gelato
+
+Username: Jeremy Renner
+Email: jeremy.renner@yahoo.com
+Notification Time: 1015
+Zipcode: 80011
+Preferences: fishmonger
+
+Username: Peter Mayhew
+Email: bigfurryrug@yahoo.com
+Notification Time: 1200
+Zipcode: 80019
+Preferences: pretzels
+
+Username: Mark Hamill
+Email: luke.skywalker@yahoo.com
+Notification Time: 1445
+Zipcode: 80030
+Preferences: distilleries
+
+Username: Anthony Daniels
+Email: antdan32@yahoo.com
+Notification Time: 1300
+Zipcode: 80031
+Preferences: meaderies
+
+Username: David Prowse
+Email: dprowse@yahoo.com
+Notification Time: 1400
+Zipcode: 80036
+Preferences: panzerotti
+
+Username: Kenny Baker
+Email: cs3030pytester@gmail.com
+Notification Time: 1000
+Zipcode: 80035
+Preferences: bubbletea
+
+Username: Carrie Fisher
+Email: cs3030pytester@gmail.com
+Notification Time: 0930
+Zipcode: 80024
+Preferences: wineries
+
+Username: Denis Lawson
+Email: cs3030pytester@gmail.com
+Notification Time: 0800
+Zipcode: 80022
+Preferences: tortillas
+
+Username: Alan Harris
+Email: alan.harris@gmail.com
+Notification Time: 1700
+Zipcode: 80011
+Preferences: smokehouse
